@@ -9,6 +9,10 @@ Each phoneme is represented by a specific character, and these representations a
 This tool provides a user-friendly graphical interface for inputting text, selecting an audio directory with phoneme files, and generating speech. 
 It also includes functionality for handling unrecognized words by generating fallback phoneme representations.
 
+## Structure
+- The [ARPABET_audio](ARPABET_audio) folder contains audio clips of all the phonemes, point to this folder for the audio directory or record your own.
+- Type in text to be broken down and the output will show each individual phonemes.
+
 
 ## Features
 
@@ -22,9 +26,6 @@ It also includes functionality for handling unrecognized words by generating fal
 &rarr; Listen to the Audio, ![pets.mp3](pets.mp3). 
 
 <div align="center">
-
 <img src="GUI.png" width=500 height=900>
-
-
 </div>
 
